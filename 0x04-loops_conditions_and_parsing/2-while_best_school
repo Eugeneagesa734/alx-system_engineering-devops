@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# using while loop to print "best school" ten times
+# Printing "Best School" 10 times using the while loop
 
 counter=0
 
